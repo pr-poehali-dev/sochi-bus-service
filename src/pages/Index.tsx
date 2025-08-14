@@ -68,7 +68,7 @@ const Index = () => {
                 </Button>
                 <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-transport-blue">
                   <Icon name="Phone" size={20} className="mr-2" />
-                  +7 (862) 123-45-67
+                  +7 928 450-25-25
                 </Button>
               </div>
             </div>
@@ -403,8 +403,8 @@ const Index = () => {
               <Icon name="Phone" size={48} className="text-transport-blue mx-auto" />
               <h3 className="font-montserrat font-bold text-xl">Телефон</h3>
               <p className="text-transport-gray">
-                +7 (862) 123-45-67<br />
-                +7 (918) 987-65-43
+                +7 928 450-25-25<br />
+                Круглосуточно
               </p>
             </div>
             
@@ -437,10 +437,12 @@ const Index = () => {
           </div>
           
           <div className="text-center mt-12">
-            <Button size="lg" className="bg-transport-blue hover:bg-transport-dark-blue text-white">
-              <Icon name="Phone" size={20} className="mr-2" />
-              Позвонить прямо сейчас
-            </Button>
+            <a href="tel:+79284502525" className="inline-block">
+              <Button size="lg" className="bg-transport-blue hover:bg-transport-dark-blue text-white">
+                <Icon name="Phone" size={20} className="mr-2" />
+                +7 928 450-25-25
+              </Button>
+            </a>
           </div>
         </div>
       </section>
@@ -482,7 +484,7 @@ const Index = () => {
             <div>
               <h4 className="font-montserrat font-bold mb-4">Контакты</h4>
               <div className="space-y-2 text-blue-200">
-                <p>+7 (862) 123-45-67</p>
+                <p>+7 928 450-25-25</p>
                 <p>info@sochi-trans.ru</p>
                 <p>г. Сочи, ул. Транспортная, 15</p>
               </div>
