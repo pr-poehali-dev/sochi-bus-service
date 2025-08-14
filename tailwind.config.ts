@@ -17,8 +17,18 @@ export default {
 				'2xl': '1400px'
 			}
 		},
+		fontFamily: {
+			'montserrat': ['Montserrat', 'sans-serif'],
+			'open-sans': ['Open Sans', 'sans-serif']
+		},
 		extend: {
 			colors: {
+				transport: {
+					blue: '#2563EB',
+					'dark-blue': '#1E40AF',
+					'light-blue': '#F8FAFC',
+					gray: '#8E9196'
+				},
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
