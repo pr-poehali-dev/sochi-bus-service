@@ -145,8 +145,8 @@ const Index = () => {
             </div>
             <div className="relative order-first lg:order-last">
               <img 
-                src="/img/b8f4a7b3-d3ea-4289-baf2-fa13cf73ba12.jpg" 
-                alt="Современный автобус компании СочиТранс"
+                src="/img/7185edd5-2454-4a7f-8a12-2ebbbec301b9.jpg" 
+                alt="Современный автобус King Long XMQ6129Y"
                 className="rounded-lg shadow-2xl w-full h-auto"
               />
             </div>
