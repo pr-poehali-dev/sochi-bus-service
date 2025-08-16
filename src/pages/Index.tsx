@@ -482,7 +482,7 @@ const Index = () => {
               <Icon name="MapPin" size={40} className="text-transport-blue mx-auto" />
               <h3 className="font-montserrat font-bold text-lg sm:text-xl">Адрес</h3>
               <p className="text-transport-gray text-sm sm:text-base">
-                г. Сочи, ул. Транспортная, 15<br />
+                г. Сочи, ул. Мира, 43<br />
                 Офис работает 24/7
               </p>
             </div>
@@ -556,7 +556,7 @@ const Index = () => {
               <div className="space-y-1 sm:space-y-2 text-blue-200 text-sm">
                 <p>+7 928 450-25-25</p>
                 <p>info@sochi-trans.ru</p>
-                <p>г. Сочи, ул. Транспортная, 15</p>
+                <p>г. Сочи, ул. Мира, 43</p>
               </div>
             </div>
           </div>
