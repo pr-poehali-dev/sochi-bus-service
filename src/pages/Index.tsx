@@ -31,7 +31,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Icon name="Bus" size={28} className="text-transport-blue sm:w-8 sm:h-8" />
-              <h1 className="font-montserrat font-bold text-lg sm:text-xl md:text-2xl text-transport-dark-blue">СочиТранс</h1>
+              <h1 className="font-montserrat font-bold text-lg sm:text-xl md:text-2xl text-transport-dark-blue">ИП Хачатурян Л. Г</h1>
             </div>
             
             {/* Desktop Navigation */}
@@ -343,7 +343,7 @@ const Index = () => {
           <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">
             <div>
               <h2 className="font-montserrat font-bold text-2xl sm:text-3xl lg:text-4xl text-transport-dark-blue mb-4 lg:mb-6 text-center lg:text-left">
-                О компании СочиТранс
+                О компании ИП Хачатурян Л. Г
               </h2>
               <p className="text-base sm:text-lg lg:text-xl text-transport-gray mb-6 text-center lg:text-left">
                 Более 10 лет обеспечиваем безопасные пассажирские перевозки по Сочи.
@@ -524,10 +524,10 @@ const Index = () => {
             <div className="col-span-full sm:col-span-1 lg:col-span-1 text-center sm:text-left">
               <div className="flex items-center justify-center sm:justify-start space-x-2 mb-4">
                 <Icon name="Bus" size={20} />
-                <h3 className="font-montserrat font-bold text-lg sm:text-xl">СочиТранс</h3>
+                <h3 className="font-montserrat font-bold text-lg sm:text-xl">ИП Хачатурян Л. Г</h3>
               </div>
               <p className="text-blue-200 text-sm sm:text-base">
-                Надёжные пассажирские перевозки
+                Надёжные пассажирские перевозки по Сочи
               </p>
             </div>
             
@@ -562,7 +562,7 @@ const Index = () => {
           </div>
           
           <div className="border-t border-blue-600 mt-6 sm:mt-8 pt-6 sm:pt-8 text-center text-blue-200">
-            <p className="text-sm">&copy; 2024 СочиТранс. Все права защищены.</p>
+            <p className="text-sm">&copy; 2024 ИП Хачатурян Л. Г. Все права защищены.</p>
           </div>
         </div>
       </footer>
